@@ -1,2 +1,2 @@
 # kubernetes-build-mgmt
-Notes and scripts while building and management the kubernetes cluster 
+Notes and scripts while building and managing the kubernetes cluster 
